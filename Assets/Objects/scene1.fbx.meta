@@ -3,7 +3,137 @@ guid: 4a58c9592c2e1432c9577e07e67a658c
 ModelImporter:
   serializedVersion: 25
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Item01_lambert2SG1
+    second: {fileID: 2100000, guid: 62bf48caa4a6f430ba925711b94ff5a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Item01_lambert2SG3
+    second: {fileID: 2100000, guid: 263b84207de084e4c90ca6ab02da6445, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Item01_lambert3SG1
+    second: {fileID: 2100000, guid: a00b881572e384c60bf4447a83b98ab1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Item01_lambert4SG1
+    second: {fileID: 2100000, guid: 9352fcd5b5f7a423aa6d136b290e133b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StylishDesk_Material_002
+    second: {fileID: 2100000, guid: 1eeef9ecbb43c4b06b51c7123ef0e511, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StylishDesk_Material_004
+    second: {fileID: 2100000, guid: 19ade5e722822478d81a2bf7d0fb814f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aussen1
+    second: {fileID: 2100000, guid: 6a11b45b44f3245cea26734001e0d845, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brick
+    second: {fileID: 2100000, guid: 71de6d25026884955b52f0ab2a047bbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chair
+    second: {fileID: 2100000, guid: 4dc6a069a7e804c7b8a482362475d847, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chair4_debrisrock
+    second: {fileID: 2100000, guid: 1043acac1c42d40d48193360b8a9ece3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chair4_debrisrock2
+    second: {fileID: 2100000, guid: f8c9436a18e79424c943f30a58112242, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chair4_debriswood1
+    second: {fileID: 2100000, guid: c90bada0a64cb4251a2ff783311a7dba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chair4_debriswood2
+    second: {fileID: 2100000, guid: c1cb4b76ba58e4b8eaecb97b1dd4a856, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chair4_iron
+    second: {fileID: 2100000, guid: c8973cbe259ed427f9de4dd62e753e19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chair4_table1
+    second: {fileID: 2100000, guid: 90690c3c538cf4b70a9e07b29f3b47cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete_wall
+    second: {fileID: 2100000, guid: ce6a1d0b98c0949e0bd769813d498953, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: desk
+    second: {fileID: 2100000, guid: 08fb7c14717a74239a437a163ea6fbc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor1
+    second: {fileID: 2100000, guid: 2475233d50cab495999ff432afbe119d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass3
+    second: {fileID: 2100000, guid: 1b264f5f7ad4340f0a8bc3784cb42c1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 20cafe4a25b494c6c94de2d78d668c5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: outside1
+    second: {fileID: 2100000, guid: d18cf57b9e5b84836bc37b494e9da322, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sofa
+    second: {fileID: 2100000, guid: ce9ddc4bfef2141608051f4311dcfb2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood1
+    second: {fileID: 2100000, guid: 37a0e81cc7997473d917355263488b6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood2
+    second: {fileID: 2100000, guid: 207532527784f40d2a820839b8d60bc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood3
+    second: {fileID: 2100000, guid: 0a36907904b9843dd9a0812b7d4c0dcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood4
+    second: {fileID: 2100000, guid: fed44cc57d90e44cd919b98c6f597d9d, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -82,7 +212,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 0.01
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
