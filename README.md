@@ -35,6 +35,10 @@ Installation process: Open Project, Install SteamVR, put Player in, delete MainC
 
 ### Project state: 
 
+### Documentation:
+
+Troubleshooting: player wasn't working, Edited Prefab, Trying to get teleporting Area to work
+
 progress in percent: 60%
 
 ### Limitations: 
